@@ -4,3 +4,5 @@ vanishing glass
 my page 2 story
 
 some file
+
+i added one more line to page 2
